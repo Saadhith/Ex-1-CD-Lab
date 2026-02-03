@@ -79,6 +79,7 @@ int main() {
 # OUTPUT
 ## Symbol found
 <img width="1723" height="845" alt="Screenshot 2026-02-03 104521" src="https://github.com/user-attachments/assets/0192688e-f7cb-4a1d-89eb-ba3ce724de35" />
+
 ## Symbol not found
 <img width="1514" height="670" alt="Screenshot 2026-02-03 104544" src="https://github.com/user-attachments/assets/d654313c-67b2-4209-9843-8e5d63be801e" />
 
